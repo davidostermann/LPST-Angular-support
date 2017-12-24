@@ -1,0 +1,32 @@
+
+## vs-code extensions
+
+### Angular language service
+
+https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+
+### Typescript hero
+
+https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero
+
+### Angular v5 Snippets
+
+https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+
+### TSLint
+
+https://marketplace.visualstudio.com/items?itemName=eg2.tslint
+
+```shell
+npm install -g tslint typescript.
+```
+
+### Material Icon Theme
+
+*Parce que c'est mignon*
+
+## Sources :
+
+https://programmingwithmosh.com/angular/essential-vscode-extensions-for-angular-developers/
+
+http://devboosts.com/2017/02/08/top-10-vs-code-extensions/
