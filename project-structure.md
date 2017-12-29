@@ -2,16 +2,12 @@
 
 ## Listing des fichiers et de leur utilité
 
+* .angular-cli.json : configuration webpack
 * tsconfig.json : config de transpiler typescript
 * tslint.json : linter
 * .editorconfig : homogenisation des config IDE (fonctionne sur tous les ide)
 * Karma, jasmine, protractor : tests U et E2E
 * rxjs : manage async data streams with observable sequences (reactive programming).
-  * UI events
-  * HTTP requests
-  * File system
-  * Array-like objects
-  * Memory-cache
 * zone.js : Helper to debugging, profiling, testing : https://www.youtube.com/watch?v=3IqtmUscE_U. Don't care about it at beginning. It's for advanced usage.
 
 ## ./src/app :
@@ -27,10 +23,6 @@ NB : *If you want to declare a specific provider (service, factory or value) for
 ## app.component.ts
 
 `./src/app/app.component.ts` : The ancestor component for all your app.
-
-## Ressources
-
-About Angular architecture : https://angular.io/guide/architecture
 
 
 

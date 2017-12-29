@@ -27,6 +27,7 @@ https://angular.io/guide/dependency-injection-pattern#the-dependency-injection-p
   * @Ouput
   * @HostListener
   * @Optional
+  * @ContentChild https://angular.io/api/core/ContentChild
   * resources at https://toddmotto.com/angular-decorators
 * Directive
 * Composants
@@ -34,9 +35,10 @@ https://angular.io/guide/dependency-injection-pattern#the-dependency-injection-p
   * interpolation
   * event binding
   * property binding
-  * Two-ways binding
+  * Two-ways binding [(ngModel)] https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
   * ressources at https://angular.io/guide/template-syntax
 * Life cycle hooks (ex. ngOnInit)
+  * https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook
 * routes
 * routes guards
 
