@@ -10,59 +10,69 @@ About Angular architecture : https://angular.io/guide/architecture
 * https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced
 * https://alligator.io/angular/angular-5/
 
-## RXJS
+### Cours videos
 
-manage async data streams with observable sequences (reactive programming).
+* https://codecraft.tv/courses/angular/quickstart/overview/
 
-  * UI events
-  * HTTP requests
-  * File system
-  * Array-like objects
-  * Memory-cache
+### 1. templating
 
-### Ressources
+### 2. Les cycles de vie
 
-* http://reactivex.io/rxjs/manual/overview.html (official)
-* https://auth0.com/blog/making-use-of-rxjs-angular/
-* https://github.com/RxJS-CN/awesome-rxjs (RxJS 5)
-* https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35 (RxJS 5)
-* https://www.sitepoint.com/rxjs-functions-with-examples/
-* https://www.youtube.com/watch?v=uQ1zhJHclvs
-* http://rxmarbles.com/
-* https://xgrommx.github.io/rx-book/index.html (RxJS 4)
-* https://www.youtube.com/watch?v=ei7FsoXKPl0
-* https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0
-* example : https://github.com/ng-book/angular2-rxjs-chat (real time events)
-* example : https://github.com/RxJS-CN/angular-rxjs-todos (routes & observables)
-* example : http://blog.novanet.no/angular-pitfall-multiple-http-requests-with-rxjs-and-observable-async/ (share operator : to auto trigger observable)
-* share : http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-share
+* http://www.learn-angular.fr/le-cycle-de-vie-dun-component/
+* NGOnInit : https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook
 
-### RXJS 5 lettables
+### 2. Communication between components
 
-* https://github.com/ReactiveX/rxjs/blob/master/doc/lettable-operators.md
+* https://www.youtube.com/watch?v=289-D_CLRYM&lc=z124cxgaszithppje04cj1gqylesd5xpb40
+* https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/
 
-## Two-way data binding
+## module
 
-* https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
+* https://angular.io/guide/dependency-injection-pattern#the-dependency-injection-pattern
 
-## Angular flex-layout
+## Dependency injections
 
-* https://github.com/angular/flex-layout
-* https://github.com/angular/flex-layout/wiki/Declarative-API-Overview
-* https://github.com/angular/flex-layout/wiki/Responsive-API
+* https://toddmotto.com/angular-dependency-injection
 
-## Material design
+## Decorators (@ContentChild, @ViewChild) & life cycle hook :
 
-* https://material.io/guidelines/layout/responsive-ui.html#responsive-ui-patterns
-
-## LifeCycle Hook : NGOnInit
-
-* https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook
+* https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e
 
 ## StateFull / StateLess
 
 * https://toddmotto.com/stateful-stateless-components
 
-## Angular Google Map component
+## Async pipe
 
-* https://github.com/SebastianM/angular-google-maps
+* http://blog.novanet.no/angular-pitfall-multiple-http-requests-with-rxjs-and-observable-async/
+
+## forms
+
+### template driven form :
+
+* https://codecraft.tv/courses/angular/forms/template-driven/
+
+* Two-way data binding : https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
+
+### rective forms (model driven form) : 
+
+* https://egghead.io/courses/create-dynamic-forms-in-angular
+* dynamic forms  : https://www.concretepage.com/angular-2/angular-2-formcontrol-example
+
+## HTTP requests
+
+* http://www.learn-angular.fr/httpclient-une-refonte-du-module-historique/
+
+* https://egghead.io/courses/learn-http-in-angular
+
+## Performances :
+
+* https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/
+
+## Change detection :
+
+* https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6
+
+## RxJS
+
+* [ressources](./rxjs.md)

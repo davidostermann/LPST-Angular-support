@@ -17,7 +17,7 @@
 
 * Module : https://angular.io/guide/architecture#modules
 * Injection de dépendance :
-https://angular.io/guide/dependency-injection-pattern#the-dependency-injection-pattern
+
 * Decorators
   * @NGModule
   * @Component
@@ -35,9 +35,12 @@ https://angular.io/guide/dependency-injection-pattern#the-dependency-injection-p
   * interpolation
   * event binding
   * property binding
+  * forms : https://codecraft.tv/courses/angular/forms/template-driven/
+  * template form variable : #truc
   * Two-ways binding [(ngModel)] https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
   * ressources at https://angular.io/guide/template-syntax
 * Life cycle hooks (ex. ngOnInit)
+  * http://www.learn-angular.fr/le-cycle-de-vie-dun-component/
   * https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook
 * routes
 * routes guards
