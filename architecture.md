@@ -13,8 +13,12 @@ About Angular architecture : https://angular.io/guide/architecture
 ### Cours videos
 
 * https://codecraft.tv/courses/angular/quickstart/overview/
+* https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch
+* https://www.youtube.com/user/programmingwithmosh/videos
 
 ### 1. templating
+
+* https://coursetro.com/posts/code/52/Trying-out-the-New-Angular-4-If-Else-Conditionals
 
 ### 2. Les cycles de vie
 
@@ -56,8 +60,11 @@ About Angular architecture : https://angular.io/guide/architecture
 
 ### rective forms (model driven form) : 
 
-* https://egghead.io/courses/create-dynamic-forms-in-angular
+* https://medium.com/aviabird/complete-angular2-guide-reactive-forms-in-depth-part-1-21a8e2428904
+* https://scotch.io/@ibrahimalsurkhi/match-password-validation-with-angular-2
 * dynamic forms  : https://www.concretepage.com/angular-2/angular-2-formcontrol-example
+* https://egghead.io/courses/create-dynamic-forms-in-angular
+* https://angular.io/guide/form-validation#custom-validators (custom form validation)
 
 ## HTTP requests
 

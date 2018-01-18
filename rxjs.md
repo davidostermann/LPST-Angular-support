@@ -8,7 +8,11 @@ manage async data streams with observable sequences (reactive programming).
   * Array-like objects
   * Memory-cache
 
-### Ressources
+## Intro
+
+* https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
+## Ressources
 
 * http://reactivex.io/rxjs/manual/overview.html (official)
 * https://auth0.com/blog/making-use-of-rxjs-angular/
@@ -31,7 +35,7 @@ manage async data streams with observable sequences (reactive programming).
 * example : http://blog.novanet.no/angular-pitfall-multiple-http-requests-with-rxjs-and-observable-async/ (share operator : to auto trigger observable)
 * share : http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-share
 
-### RXJS 5 lettables
+## RXJS 5 lettables
 
 * https://github.com/ReactiveX/rxjs/blob/master/doc/lettable-operators.md
 * https://blog.hackages.io/rxjs-5-5-piping-all-the-things-9d469d1b3f44
