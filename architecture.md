@@ -83,3 +83,7 @@ About Angular architecture : https://angular.io/guide/architecture
 ## RxJS
 
 * [ressources](./rxjs.md)
+
+## Exemples
+
+* https://github.com/gothinkster/angular-realworld-example-app

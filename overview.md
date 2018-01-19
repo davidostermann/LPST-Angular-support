@@ -35,7 +35,7 @@
   * interpolation
   * event binding
   * property binding
-  * forms : https://codecraft.tv/courses/angular/forms/template-driven/
+  * forms : https://codecraft.tv/courses/angular/forms/template-driven/ (vs. model driven a.k.a reactive form)
   * template form variable : #truc
   * Two-ways binding [(ngModel)] https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
   * ressources at https://angular.io/guide/template-syntax
