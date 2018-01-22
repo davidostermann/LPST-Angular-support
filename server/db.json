@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Aisha Eichmann",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/malykhinv/128.jpg",
+      "jobTitle": "Customer Division Assistant",
+      "position": {
+        "lat": "-67.4430",
+        "lng": "-163.9430"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Calista Skiles",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/nessoila/128.jpg",
+      "jobTitle": "Dynamic Solutions Orchestrator",
+      "position": {
+        "lat": "55.0963",
+        "lng": "-120.1440"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Kristofer Hermiston",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/ernestsemerda/128.jpg",
+      "jobTitle": "Dynamic Markets Planner",
+      "position": {
+        "lat": "-59.8304",
+        "lng": "-31.9158"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Malachi Farrell",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/imammuht/128.jpg",
+      "jobTitle": "Future Operations Assistant",
+      "position": {
+        "lat": "75.8076",
+        "lng": "18.6050"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Danielle Adams",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/ratbus/128.jpg",
+      "jobTitle": "Lead Identity Analyst",
+      "position": {
+        "lat": "43.3302",
+        "lng": "-7.5617"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Obie Pouros",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/maxlinderman/128.jpg",
+      "jobTitle": "Global Applications Engineer",
+      "position": {
+        "lat": "-55.2549",
+        "lng": "73.7325"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Emerald Greenfelder",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/mikemai2awesome/128.jpg",
+      "jobTitle": "Senior Usability Manager",
+      "position": {
+        "lat": "27.5053",
+        "lng": "121.4240"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Duncan Tromp",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/vitor376/128.jpg",
+      "jobTitle": "International Paradigm Consultant",
+      "position": {
+        "lat": "41.7312",
+        "lng": "-178.9644"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Delphia Strosin",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/smenov/128.jpg",
+      "jobTitle": "Principal Research Representative",
+      "position": {
+        "lat": "6.3681",
+        "lng": "136.3273"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Al Balistreri",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/overcloacked/128.jpg",
+      "jobTitle": "Chief Metrics Developer",
+      "position": {
+        "lat": "-58.6302",
+        "lng": "138.3543"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Royce Walsh",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/jpenico/128.jpg",
+      "jobTitle": "Principal Branding Analyst",
+      "position": {
+        "lat": "-81.6911",
+        "lng": "143.2033"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Tania Donnelly",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/joetruesdell/128.jpg",
+      "jobTitle": "Global Program Coordinator",
+      "position": {
+        "lat": "84.2482",
+        "lng": "-86.1149"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Godfrey Powlowski",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/rohixx/128.jpg",
+      "jobTitle": "Dynamic Functionality Facilitator",
+      "position": {
+        "lat": "81.4673",
+        "lng": "-103.6758"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Alaina Bergstrom",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/bcrad/128.jpg",
+      "jobTitle": "Principal Solutions Director",
+      "position": {
+        "lat": "-74.4551",
+        "lng": "118.7371"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Marguerite Purdy",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/jay_wilburn/128.jpg",
+      "jobTitle": "Principal Program Supervisor",
+      "position": {
+        "lat": "83.4842",
+        "lng": "-150.6426"
+      }
+    }
+  ]
+}
