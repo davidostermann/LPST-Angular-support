@@ -21,6 +21,7 @@ About Angular architecture : https://angular.io/guide/architecture
 * https://angular.io/guide/template-syntax#property-binding-or-interpolation
 * https://coursetro.com/posts/code/52/Trying-out-the-New-Angular-4-If-Else-Conditionals
 * https://alligator.io/angular/style-binding-ngstyle-angular/ (style binding)
+* https://codecraft.tv/courses/angular/built-in-directives/ngstyle-and-ngclass/ (styles & classes)
 
 ### 2. Les cycles de vie
 

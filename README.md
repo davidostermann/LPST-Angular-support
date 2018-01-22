@@ -7,7 +7,7 @@
 5. [Améliorer votre IDE](./04.vscode.md)
 6. [Angular templating](./05.exercices.md)
 7. [Installation API Server](./06.api.install.md)
-8. [Installation API Server](./07.exercices.md)
+8. [Angular http](./07.exercices.md)
 
 ## Ressources
 
