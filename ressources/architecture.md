@@ -18,7 +18,9 @@ About Angular architecture : https://angular.io/guide/architecture
 
 ### 1. templating
 
+* https://angular.io/guide/template-syntax#property-binding-or-interpolation
 * https://coursetro.com/posts/code/52/Trying-out-the-New-Angular-4-If-Else-Conditionals
+* https://alligator.io/angular/style-binding-ngstyle-angular/ (style binding)
 
 ### 2. Les cycles de vie
 
@@ -82,8 +84,18 @@ About Angular architecture : https://angular.io/guide/architecture
 
 ## RxJS
 
+Manage async data streams with observable sequences (reactive programming).
+
 * [ressources](./rxjs.md)
+
+## zone.js 
+
+Helper to debugging, profiling, testing : https://www.youtube.com/watch?v=3IqtmUscE_U. Don't care about it at beginning. It's for advanced usage.
 
 ## Exemples
 
 * https://github.com/gothinkster/angular-realworld-example-app
+
+## Build your own atttribut directive
+
+* https://angular.io/guide/attribute-directives
