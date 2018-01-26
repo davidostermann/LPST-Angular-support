@@ -15,6 +15,14 @@
 * https://coursetro.com/posts/code/113/How-to-Build-an-Angular-5-Material-App
 * https://material.io/guidelines/layout/responsive-ui.html#responsive-ui-patterns
 * https://alligator.io/angular/angular-material-2/
+* (responsive) https://github.com/btroncone/egghead-material2/blob/master/src/app/app.component.ts
+* (side-nav) https://github.com/btroncone/egghead-material2/blob/master/src/app/app.component.html
+* A venir : https://egghead.io/courses/structure-angular-apps-with-angular-material-components
+
+#### Ce qu'on peut faire avec Material - Fuse template exemple : 
+
+* http://fuse-angular-material.withinpixels.com
+
 
 ## Angular Google Map component
 

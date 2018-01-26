@@ -16,12 +16,18 @@ About Angular architecture : https://angular.io/guide/architecture
 * https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch
 * https://www.youtube.com/user/programmingwithmosh/videos
 
+### tutos
+
+* https://lishman.io/
+
 ### 1. templating
 
 * https://angular.io/guide/template-syntax#property-binding-or-interpolation
+* http://www.learn-angular.fr/le-data-binding-angular/
 * https://coursetro.com/posts/code/52/Trying-out-the-New-Angular-4-If-Else-Conditionals
 * https://alligator.io/angular/style-binding-ngstyle-angular/ (style binding)
 * https://codecraft.tv/courses/angular/built-in-directives/ngstyle-and-ngclass/ (styles & classes)
+* http://www.learn-angular.fr/les-pipes/ (les pipes)
 
 ### 2. Les cycles de vie
 
@@ -32,6 +38,10 @@ About Angular architecture : https://angular.io/guide/architecture
 
 * https://www.youtube.com/watch?v=289-D_CLRYM&lc=z124cxgaszithppje04cj1gqylesd5xpb40
 * https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/
+
+## Routing
+
+* https://lishman.io/angular-2-router
 
 ## module
 
@@ -59,7 +69,7 @@ About Angular architecture : https://angular.io/guide/architecture
 
 * https://codecraft.tv/courses/angular/forms/template-driven/
 
-* Two-way data binding : https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
+* Two-way data binding (Understanding NGModel) : https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
 
 ### rective forms (model driven form) : 
 

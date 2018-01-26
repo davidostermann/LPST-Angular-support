@@ -5,9 +5,11 @@
 3. [Installation (How ?)](./02.install.md)
 4. [Comprendre la structure du projet généré](./03.project-structure.md)
 5. [Améliorer votre IDE](./04.vscode.md)
-6. [Angular templating](./05.exercices.md)
-7. [Installation API Server](./06.api.install.md)
-8. [Angular http](./07.exercices.md)
+6. [Angular templating](./05.exercices-templates.md)
+7. [Angular components interactions](./06.exercices-comp-interactions.md)
+8. [Angular todolist](./07.exercices-todolist.md)
+9. [Installation API Server](./08.api.install.md)
+10. [Angular http](./09.exercices.md)
 
 ## Ressources
 
