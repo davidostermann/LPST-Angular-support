@@ -26,6 +26,7 @@ About Angular architecture : https://angular.io/guide/architecture
 * http://www.learn-angular.fr/le-data-binding-angular/
 * https://coursetro.com/posts/code/52/Trying-out-the-New-Angular-4-If-Else-Conditionals
 * https://alligator.io/angular/style-binding-ngstyle-angular/ (style binding)
+* https://blog.angulartraining.com/whats-the-difference-between-style-and-ngstyle-in-angular-68a3301c2ae6
 * https://codecraft.tv/courses/angular/built-in-directives/ngstyle-and-ngclass/ (styles & classes)
 * http://www.learn-angular.fr/les-pipes/ (les pipes)
 
@@ -42,6 +43,9 @@ About Angular architecture : https://angular.io/guide/architecture
 ## Routing
 
 * https://lishman.io/angular-2-router
+* https://www.youtube.com/watch?v=T7s4Ie5kdyQ (routerLink & routerLinkActive)
+* https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html
+* https://toddmotto.com/angular-component-router
 
 ## module
 

@@ -16,6 +16,7 @@
 * https://material.io/guidelines/layout/responsive-ui.html#responsive-ui-patterns
 * https://alligator.io/angular/angular-material-2/
 * (responsive) https://github.com/btroncone/egghead-material2/blob/master/src/app/app.component.ts
+* https://alligator.io/angular/material-design-angular-reference/
 * (side-nav) https://github.com/btroncone/egghead-material2/blob/master/src/app/app.component.html
 * A venir : https://egghead.io/courses/structure-angular-apps-with-angular-material-components
 
