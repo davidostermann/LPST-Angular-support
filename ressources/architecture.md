@@ -46,6 +46,9 @@ About Angular architecture : https://angular.io/guide/architecture
 * https://www.youtube.com/watch?v=T7s4Ie5kdyQ (routerLink & routerLinkActive)
 * https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html
 * https://toddmotto.com/angular-component-router
+* https://toddmotto.com/angular-parent-routing-params
+* https://codecraft.tv/courses/angular/routing/route-configuration/
+* https://netbasal.com/angular-2-router-routeroutlet-events-8b0803d88082 (a savoir mais peut paraitre inutile)
 
 ## module
 
@@ -114,3 +117,7 @@ Helper to debugging, profiling, testing : https://www.youtube.com/watch?v=3IqtmU
 ## Build your own atttribut directive
 
 * https://angular.io/guide/attribute-directives
+
+## PWA
+
+* https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
