@@ -9,6 +9,7 @@
 ## Material design
 
 * https://material.angular.io/guide/getting-started
+* https://egghead.io/courses/structure-angular-apps-with-angular-material-components
 * https://coursetro.com/posts/code/67/Angular-4-Material-Tutorial
 * https://www.youtube.com/watch?v=wPT3K3w6JtU
 * https://www.youtube.com/watch?v=2osMpXOe5fA
