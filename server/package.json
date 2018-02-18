@@ -4,7 +4,7 @@
   "description": "Json server to support angular courses",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "json-server generate.js"
   },
   "author": "",
   "license": "ISC",
