@@ -19,6 +19,7 @@ About Angular architecture : https://angular.io/guide/architecture
 ### tutos
 
 * https://lishman.io/
+* https://www.tektutorialshub.com/angular-2-tutorial/
 
 ### 1. templating
 
@@ -48,11 +49,17 @@ About Angular architecture : https://angular.io/guide/architecture
 * https://toddmotto.com/angular-component-router
 * https://toddmotto.com/angular-parent-routing-params
 * https://codecraft.tv/courses/angular/routing/route-configuration/
+* https://codecraft.tv/courses/angular/routing/router-guards/
+* https://codecraft.tv/courses/angular/routing/nested-routes/
 * https://netbasal.com/angular-2-router-routeroutlet-events-8b0803d88082 (a savoir mais peut paraitre inutile)
+* https://www.concretepage.com/angular-2/angular-2-4-child-routes-and-relative-navigation-example
+* https://www.tektutorialshub.com/angular-child-routes-nested-routes/
 
 ## module
 
 * https://angular.io/guide/dependency-injection-pattern#the-dependency-injection-pattern
+* https://angular-2-training-book.rangle.io/handout/modules/shared-modules-di.html (shared services)
+* https://angular.io/guide/singleton-services (shared services)
 
 ## Dependency injections
 
@@ -71,6 +78,8 @@ About Angular architecture : https://angular.io/guide/architecture
 * http://blog.novanet.no/angular-pitfall-multiple-http-requests-with-rxjs-and-observable-async/
 
 ## forms
+
+* https://codingthesmartway.com/angular5-forms-update/
 
 ### template driven form :
 
@@ -121,3 +130,7 @@ Helper to debugging, profiling, testing : https://www.youtube.com/watch?v=3IqtmU
 ## PWA
 
 * https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
+
+## Testing
+
+* https://www.ng-conf.org/mocking-dependencies-angular/

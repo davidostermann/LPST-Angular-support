@@ -34,6 +34,7 @@ manage async data streams with observable sequences (reactive programming).
 * example chat : https://github.com/RxJS-CN/angular-rxjs-todos (routes & observables)
 * example : http://blog.novanet.no/angular-pitfall-multiple-http-requests-with-rxjs-and-observable-async/ (share operator : to auto trigger observable)
 * share : http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-share
+* [FR] angular / rxjs use cases :  https://makina-corpus.com/blog/metier/2017/premiers-pas-avec-rxjs-dans-angular
 
 ## RXJS 5 lettables
 
