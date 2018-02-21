@@ -19,7 +19,8 @@
 * (responsive) https://github.com/btroncone/egghead-material2/blob/master/src/app/app.component.ts
 * https://alligator.io/angular/material-design-angular-reference/
 * (side-nav) https://github.com/btroncone/egghead-material2/blob/master/src/app/app.component.html
-* A venir : https://egghead.io/courses/structure-angular-apps-with-angular-material-components
+* https://egghead.io/courses/structure-angular-apps-with-angular-material-components
+* https://github.com/angular/material2/issues/2936 (how to toggle sidenav from child component)
 
 #### Ce qu'on peut faire avec Material - Fuse template exemple : 
 
