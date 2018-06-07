@@ -7,7 +7,7 @@
 5. [Améliorer votre IDE](./04.vscode.md)
 6. [Angular templating](./05.exercices-templates.md)
 7. [Angular components interactions](./06.exercices-comp-interactions.md)
-8. [Angular service](./06.exercices-service.md)
+8. [Angular service](./06.exercice-service.md)
 9. [Angular todolist](./08.exercices-todolist.md)
 10. [Angular material+flex](./09.exercice-material-flex.md)
 11. [Angular routing](./10.exercice-routing.md)
