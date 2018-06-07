@@ -9,10 +9,10 @@
 7. [Angular components interactions](./06.exercices-comp-interactions.md)
 8. [Angular service](./06.exercices-service.md)
 9. [Angular todolist](./08.exercices-todolist.md)
-10. [Angular material+flex](./09.exercices-material-flex.md)
-11. [Angular routing](./10.exercices-routing.md)
+10. [Angular material+flex](./09.exercice-material-flex.md)
+11. [Angular routing](./10.exercice-routing.md)
 12. [Installation API Server](./11.api.install.md)
-13. [Angular http](./12.exercices.md)
+13. [Angular http](./12.exercices-http.md)
 
 ## Ressources
 
